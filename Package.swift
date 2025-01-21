@@ -15,6 +15,6 @@ let package = Package(
     targets: [
         .binaryTarget(name: "appinion",
                       url: "https://github.com/otwhub/appinion-package/blob/main/appinion.xcframework.zip?raw=true",
-                      checksum: "fce93e43a8fc25d8106050ad41f9b1ce1f6d614e10fb925f273773a7ced4cb0e")
+                      checksum: "32674a7b7ebc23750f28fe8585b1e0a21f0285814f9cd6d2b10c125ce15401b9")
     ]
 )
