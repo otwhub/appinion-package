@@ -14,7 +14,7 @@ let package = Package(
     dependencies: [],
     targets: [
         .binaryTarget(name: "appinion",
-                      url: "https://github.com/otwhub/appinion-package/releases/download/1.2.0/appinion.xcframework.zip",
-                      checksum: "2011c7d0a9d131139b28ce56f8826827caf71f3065e1e34063e14918b14d6e15")
+                      url: "https://github.com/otwhub/appinion-package/releases/download/1.2.1/appinion.xcframework.zip",
+                      checksum: "1e7758463bcda6a8b1a60bb5e4d71b9f72cb3d81b03501cac7b7c6a49d9691b8")
     ]
 )
